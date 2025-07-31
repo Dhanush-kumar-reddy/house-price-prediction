@@ -8,3 +8,5 @@ streamlit
 fastapi
 uvicorn
 boto3
+xgboost
+python-box
