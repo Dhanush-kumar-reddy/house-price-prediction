@@ -42,4 +42,4 @@ The project follows a modular and scalable structure:
     uvicorn app:app --reload
     ```
 
----
+---   
